@@ -1,10 +1,10 @@
-series: C++ IO
+series: Basic C++
 title: C Strings
 author:
-  name: David I. Schwartz, Ph.D.
+  name: David Erbelding
   email: 
   github: https://github.com/IGME-RIT
-description: A basic console application using string and iostream.
+description: Basics of C-style strings and string manipulation in C++.
 language: C++
 tags:
   - Core
