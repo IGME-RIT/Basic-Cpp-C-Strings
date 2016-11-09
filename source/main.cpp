@@ -1,5 +1,5 @@
 ﻿/*
-SimpleInput
+C Strings
 (c) 2016
 Author: David Erbelding
 Written under the supervision of David I. Schwartz, Ph.D., and
