@@ -18,11 +18,6 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>
 */
 
-//------------------------------------------------------------------------------------
-// basic I/O
-// http://www.cplusplus.com/doc/tutorial/basic_io/
-// http://www.cprogramming.com/tutorial/c++-iostreams.html
-//------------------------------------------------------------------------------------
 
 #include <iostream>
 #include <cstring>
