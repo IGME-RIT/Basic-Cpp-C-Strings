@@ -66,11 +66,11 @@ int main() {
         // sentence1 = "no writing to const pointers";
 
         // You can however create an array as a pointer:
-        char* sentence2 = "Ternary Operators:";
+        char* sentence2 = (char*)"Ternary Operators:";
         std::cout << sentence2 << std::endl;;
 
         // This one can be changed.
-        sentence2 = "Not Even Once.";
+        sentence2 = (char*)"Not Even Once.";
         std::cout << sentence2 << std::endl;;
 
 
